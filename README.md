@@ -19,8 +19,9 @@
   
 ### [学习JavaScript进阶知识](./学习JavaScript进阶知识/README.md)
 - [数据的存储「栈」「堆」](https://github.com/tangqianhua/blog/issues/6)
+- [一文讲透宏任务跟微任务](https://github.com/tangqianhua/blog/issues/9)
 - [熟悉Promise](https://github.com/tangqianhua/blog/issues/7)
-- [async-await内部的执行](https://github.com/tangqianhua/blog/issues/7)
+- [async-await内部的执行](https://github.com/tangqianhua/blog/issues/8)
 
 每一篇文章都是`文字`+`图`+`代码`来讲解的，让看文章的人能够轻松的get到知识点。
 

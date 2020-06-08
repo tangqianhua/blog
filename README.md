@@ -10,23 +10,29 @@
 
 博客里面的文章大部门都是围绕了`JavaScript`来将
 
-### [学习JavaScript基础知识](./学习JavaScript基础知识/README.md)
+### [学习 JavaScript 基础知识](./学习JavaScript基础知识/README.md)
+
 - [函数声明跟函数的表达式](https://github.com/tangqianhua/blog/issues/1)
 - [原型跟原型链](https://github.com/tangqianhua/blog/issues/2)
 - [作用域跟作用域链](https://github.com/tangqianhua/blog/issues/3)
 - [闭包](https://github.com/tangqianhua/blog/issues/4)
 - [闭包中的外部变量是怎么存储的](https://github.com/tangqianhua/blog/issues/5)
-  
-### [学习JavaScript进阶知识](./学习JavaScript进阶知识/README.md)
+
+### [学习 JavaScript 进阶知识](./学习JavaScript进阶知识/README.md)
+
 - [数据的存储「栈」「堆」](https://github.com/tangqianhua/blog/issues/6)
 - [一文讲透宏任务跟微任务](https://github.com/tangqianhua/blog/issues/9)
-- [熟悉Promise](https://github.com/tangqianhua/blog/issues/7)
-- [async-await内部的执行](https://github.com/tangqianhua/blog/issues/8)
+- [熟悉 Promise](https://github.com/tangqianhua/blog/issues/7)
+- [async-await 内部的执行](https://github.com/tangqianhua/blog/issues/8)
 
-每一篇文章都是`文字`+`图`+`代码`来讲解的，让看文章的人能够轻松的get到知识点。
+### [学习 JavaScript 高阶知识](./学习JavaScript高阶知识/README.md)
+
+- [什么是高阶函数](https://github.com/tangqianhua/blog/issues/10)
+
+每一篇文章都是`文字`+`图`+`代码`来讲解的，让看文章的人能够轻松的 get 到知识点。
 
 每一篇文章首发于[语雀](https://www.yuque.com/u335589/ykhutm)
 
-如果文章有问题欢迎留言或者Issues。
+如果文章有问题欢迎留言或者 Issues。
 
-如果你觉得文章对你有帮助，欢迎Star，也欢迎把它分享给你身边的人。
+如果你觉得文章对你有帮助，欢迎 Star，也欢迎把它分享给你身边的人。

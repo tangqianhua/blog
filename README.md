@@ -28,6 +28,7 @@
 ### [学习 JavaScript 高阶知识](./学习JavaScript高阶知识/README.md)
 
 - [什么是高阶函数](https://github.com/tangqianhua/blog/issues/10)
+- [JavaScript 中的组合函数](https://github.com/tangqianhua/blog/issues/11)
 
 每一篇文章都是`文字`+`图`+`代码`来讲解的，让看文章的人能够轻松的 get 到知识点。
 
